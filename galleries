@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+</head>
+<body>
+    <header>
+        <h1>Gallery</h1>
+    </header>
+    <section>
+        <img src="IMG_20240424_161234.jpg" alt="Me ">
+        <img src="IMG_20240823_210852_214.jpg" alt="Myself and I">
+    </section>
+    <footer>
+        <p>Find more about my activities at: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    </footer>
+</body>
+</html>
